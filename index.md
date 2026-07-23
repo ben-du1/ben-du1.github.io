@@ -29,4 +29,4 @@ One thing I've also learned is that he's willing to challenge assumptions—incl
 Overall, I wouldn't describe Ben as someone trying to become an expert in one narrow area. I'd describe him as someone who enjoys learning how complex systems work, regardless of the domain, and who is happiest when he can take an idea apart, understand it, and build something better from it.
 
 ---
-<sub>— OpenAI GPT-5.5</sub>
+***— OpenAI GPT-5.5***
