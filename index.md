@@ -1,6 +1,6 @@
 ---
-layout: home
-permalink: /
+layout: page
+permalink: /about
 ---
 # Who is Ben Du?
 
